@@ -1,0 +1,18 @@
+# مجلدات البيئة المحلية
+venv/
+.virtualenv/
+.venv/
+env/
+ENV/
+
+# ملفات الاعتمادات والمفاتيح السرية
+secrets.txt
+credentials.json
+
+# ملفات الإخراج الناتجة عن التطبيق
+logs/
+*.log
+
+# ملفات مؤقتة
+temp.txt
+*.tmp
